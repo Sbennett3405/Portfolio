@@ -5,3 +5,4 @@ Per the images below you can see the results of my Analysis
 ![TRIP DATA AUGUST 2022](https://github.com/Sbennett3405/Portfolio/assets/127814929/ce5ad1d1-8aee-4ce1-94af-badb097e2d79)
 
 ![TRIP DATA DECEMBER 2022](https://github.com/Sbennett3405/Portfolio/assets/127814929/d58cda05-9b65-474b-8a3a-56ed95a1c522)
+
